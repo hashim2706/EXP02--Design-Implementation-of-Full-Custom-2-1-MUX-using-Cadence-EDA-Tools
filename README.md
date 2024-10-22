@@ -46,7 +46,9 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![Screenshot (71)](https://github.com/user-attachments/assets/90a52e5b-dea0-4d33-9208-9b9a7161bd0a)
+
+
 
 
  
@@ -63,7 +65,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
+![Screenshot (72)](https://github.com/user-attachments/assets/cd09a03a-96f1-4467-abda-9412945c2bb8)
+
 
 
 iv)	Creating the new test cell view
@@ -74,7 +77,9 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+![Screenshot (74)](https://github.com/user-attachments/assets/cd806412-2bcd-4552-98e0-1643c44d4d49)
+
+
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -86,12 +91,15 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+![Screenshot (75)](https://github.com/user-attachments/assets/e647efa5-f784-46d0-bb01-55074e81d06e)
+
 
 For Transient Analysis Settings and Output
- ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
+ ![Screenshot (76)](https://github.com/user-attachments/assets/da30db5c-1041-4144-8206-5de44bf78e09)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+
+
+![Screenshot (77)](https://github.com/user-attachments/assets/5358bb5d-f8f0-415f-83ca-944d4f626e1e)
 
 
 
