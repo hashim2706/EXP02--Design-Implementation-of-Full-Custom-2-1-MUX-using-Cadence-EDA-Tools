@@ -63,7 +63,8 @@ ii)	Create Schematic Cell view.
 	+ Create Input and Output pins
 	+ Make the connections by using fixed narrow wire key
 	+ Click Check and Save button
-![Screenshot (71)](https://github.com/user-attachments/assets/90a52e5b-dea0-4d33-9208-9b9a7161bd0a)
+![Screenshot 2024-11-16 183728](https://github.com/user-attachments/assets/25be2158-e953-49c8-8698-69fedd6669ac)
+
 
 
 
@@ -83,7 +84,8 @@ iii)	Creating the Symbol for schematic Cell view
 - Edit for the shape by Create-Shape-Choose required options to edit.
 
 
-![Screenshot (72)](https://github.com/user-attachments/assets/cd09a03a-96f1-4467-abda-9412945c2bb8)
+![Screenshot 2024-11-16 182710](https://github.com/user-attachments/assets/8b0953b3-fc73-410d-9753-48fdd9abd33c)
+
 
 iv)	Creating the new test cell view
 
@@ -95,7 +97,7 @@ iv)	Creating the new test cell view
 	+ Type: Schematic press OK
 - Follow the step 3(ii) d to make the required connections
 
-![Screenshot (74)](https://github.com/user-attachments/assets/cd806412-2bcd-4552-98e0-1643c44d4d49)
+![Screenshot 2024-11-16 182426](https://github.com/user-attachments/assets/cb7f1a43-f25d-4958-a9aa-53f03acf7fe5)
 
 ### Analog simulation by SPECTRE.
 
@@ -109,14 +111,16 @@ iv)	Creating the new test cell view
 	+ Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 - Execute Simulation -- Net list and Run
 
-![Screenshot (75)](https://github.com/user-attachments/assets/e647efa5-f784-46d0-bb01-55074e81d06e)
+![Screenshot 2024-11-16 183632](https://github.com/user-attachments/assets/942b58af-3d99-4bd2-b52d-ded2f6e06d57)
+
 
 ### For Transient Analysis Settings and Output:
- ![Screenshot (76)](https://github.com/user-attachments/assets/da30db5c-1041-4144-8206-5de44bf78e09)
+![Screenshot 2024-11-16 182843](https://github.com/user-attachments/assets/e5669cf9-3940-4b5c-854c-1ab88805de00)
 
 
 
-![Screenshot (77)](https://github.com/user-attachments/assets/5358bb5d-f8f0-415f-83ca-944d4f626e1e)
+![Screenshot 2024-11-16 183407](https://github.com/user-attachments/assets/0ba6e092-5095-4467-958a-0a5ee5856264)
+
 
 ### Results:
 
